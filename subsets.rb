@@ -100,6 +100,3 @@ def longest_non_sub_anagram
 
   longest_word
 end
-
-puts subanagrams("bermuda")
-# puts "Based on the dictionary given, the longest word without an anagram is: #{longest_non_sub_anagram.upcase}"
